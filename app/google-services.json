@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866184246144",
+    "project_id": "bdcoe-c7aa7",
+    "storage_bucket": "bdcoe-c7aa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866184246144:android:d87123395c3090bd8cc765",
+        "android_client_info": {
+          "package_name": "com.example.bdcoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866184246144-16ito29bs89buhp7th3sefnu59mk03cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvcqRntxkempsrRqb8hegsRgrg3Oj2Dys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866184246144-16ito29bs89buhp7th3sefnu59mk03cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
