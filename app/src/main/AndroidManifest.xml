@@ -10,10 +10,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Bdcoe">
         <activity
-            android:name=".splashscreen"
+            android:name=".chatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".setProfile"
+            android:exported="false" />
+        <activity
+            android:name=".otpAuthentication"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".splashscreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
