@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/drawable/messagebackgroun.xml" value="0.26614583333333336" />
+        <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/drawable/recieverchatdrawble.xml" value="0.26614583333333336" />
+        <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/drawable/senderchatdrawable.xml" value="0.26614583333333336" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_chat.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_otp_authentication.xml" value="0.25" />
@@ -15,6 +17,8 @@
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/callfragment.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/chatfragment.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/chatviewlayout.xml" value="0.234375" />
+        <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/recieverchatlayout.xml" value="0.25" />
+        <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/senderchatlayout.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/statusfragment.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/menu/menu.xml" value="0.25" />
       </map>
