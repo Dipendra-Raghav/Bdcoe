@@ -78,7 +78,12 @@ public class chatFragment extends Fragment {
                 noteViewHolder.itemView.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        Toast.makeText(getActivity(), "Item is clicked", Toast.LENGTH_SHORT).show();
+                        Intent intent=new Intent(getActivity(),specificchat.class);
+                        intent.putExtra("name",firebasemodel.getName());
+                        intent.putExtra("receiveruid",firebasemodel.getUid());
+                        intent.putExtra("imageuri",firebasemodel.getImage());
+                        startActivity(intent);
+
                     }
                 });
 
@@ -142,6 +147,7 @@ public class chatFragment extends Fragment {
             chatAdapter.stopListening();
         }
     }
+
 
 
 }

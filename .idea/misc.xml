@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/drawable/messagebackgroun.xml" value="0.26614583333333336" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_chat.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_otp_authentication.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_profile.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_set_profile.xml" value="0.25" />
+        <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_specificchat.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_splashscreen.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/activity_update_profile.xml" value="0.25" />
         <entry key="..\:/Dipendra/Bdcoe/app/src/main/res/layout/callfragment.xml" value="0.25" />
