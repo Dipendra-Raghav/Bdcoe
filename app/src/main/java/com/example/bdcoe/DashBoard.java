@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.RelativeLayout;
 
 public class DashBoard extends AppCompatActivity {
-    RelativeLayout chat,aboutUs,ourDomains;
+    RelativeLayout chat,aboutUs,ourDomains,feedback;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -17,6 +17,7 @@ public class DashBoard extends AppCompatActivity {
         chat=findViewById(R.id.chat);
         aboutUs=findViewById(R.id.aboutUs);
         ourDomains=findViewById(R.id.ourDomains);
+        feedback=findViewById(R.id.feedback);
 
         chat.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -37,6 +38,13 @@ public class DashBoard extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(getApplicationContext(),Domains.class));
+
+            }
+        });
+        feedback.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),FeedBack.class));
 
             }
         });

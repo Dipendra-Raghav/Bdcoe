@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Bdcoe">
         <activity
+            android:name=".FeedBack"
+            android:exported="false" />
+        <activity
             android:name=".Domains"
             android:exported="false" />
         <activity
