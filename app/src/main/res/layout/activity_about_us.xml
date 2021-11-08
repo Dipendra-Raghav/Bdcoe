@@ -25,6 +25,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:fontFamily="@font/arbutus_slab"
                     android:gravity="center"
                     android:padding="1dp"
                     android:text="BDCOE"
@@ -39,7 +40,7 @@
                     android:padding="1dp"
                     android:text="Big Data Centre of Excellence"
                     android:textColor="#130707"
-                    android:textSize="20sp"
+                    android:textSize="22sp"
                     android:textStyle="bold" />
             </LinearLayout>
             <com.smarteist.autoimageslider.SliderLayout

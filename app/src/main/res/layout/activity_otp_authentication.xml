@@ -11,7 +11,7 @@
     <ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="@drawable/mychatapplogo"
+        android:src="@drawable/bdcoelogo"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="40dp"
         android:id="@+id/logo">
@@ -34,19 +34,18 @@
     </TextView>
 
 
-
     <EditText
+        android:id="@+id/getotp"
         android:layout_width="150dp"
         android:layout_height="50dp"
-        android:layout_centerHorizontal="true"
         android:layout_below="@id/textheading"
+        android:layout_centerHorizontal="true"
         android:layout_marginLeft="120dp"
         android:layout_marginRight="120dp"
         android:hint="Enter the OTP here...."
-        android:textColor="@color/black"
-        android:id="@+id/getotp"
+        android:inputType="number"
         android:textAlignment="center"
-        android:inputType="number">
+        android:textColor="@color/black">
 
     </EditText>
 

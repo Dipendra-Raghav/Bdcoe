@@ -9,10 +9,10 @@
 
 
     <ImageView
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:layout_centerInParent="true"
-        android:src="@drawable/mychatapplogo">
+        android:src="@drawable/bdcoelogo">
 
     </ImageView>
 
@@ -20,12 +20,12 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="from"
-
-        android:textColor="#1E1D1D"
-        android:layout_centerHorizontal="true"
         android:layout_above="@+id/maintext"
-        android:layout_marginBottom="5dp">
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:text="from"
+        android:textColor="#1E1D1D">
 
     </TextView>
 
@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:text="BDCOE"
         android:layout_alignParentBottom="true"
-        android:textSize="18sp"
+        android:textSize="24sp"
         android:textStyle="bold"
         android:id="@+id/maintext"
         android:layout_centerHorizontal="true"

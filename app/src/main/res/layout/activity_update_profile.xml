@@ -24,7 +24,7 @@
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:id="@+id/backbuttonofupdateprofile"
-                android:tint="@color/white"
+                app:tint="@color/white"
                 android:background="@android:color/transparent"
                 android:src="@drawable/ic_baseline_arrow_back_24"
                 android:layout_centerVertical="true">
